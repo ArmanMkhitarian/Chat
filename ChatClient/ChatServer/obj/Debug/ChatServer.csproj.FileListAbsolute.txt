@@ -1,0 +1,10 @@
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\bin\Debug\ChatWCF.dll
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\bin\Debug\ChatWCF.pdb
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\bin\Debug\ChatWCF.dll.config
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Арман\Documents\Visual Studio 2017\Projects\ChatClient\ChatServer\obj\Debug\ChatServer.pdb
